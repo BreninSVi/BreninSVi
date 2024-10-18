@@ -1,7 +1,5 @@
-# 👋 Olá! Bem vindo ao meu perfil no Github.
+# 👋 Hello World!.
 ## Me chamo Breno Vieira e meu nome de usuário é "BreninSVi"
-
-## Quero me tornar um Cientista de dados algum dia, e estou dando meus primeiros passos na busca desse sonho!
 
 ## Contatos:
 <div>
